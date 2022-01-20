@@ -1,4 +1,4 @@
-# La 4ème dimension
+# La 4ème Dimension
 
 Tous se base sur la grille d'electrons.
 
