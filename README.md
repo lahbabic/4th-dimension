@@ -2,7 +2,7 @@
 
 Tous se base sur la grille d'electrons.
 
-Imaginez vous une **grille** en **4d** d'**électrons**. Transitant entre eux des photons.
+Imaginez vous une **grille** en **4D** d'**électrons**. Transitant entre eux des photons.
 
 A partir de là. On en déduit que la **lumière** composé de plusieurs photons transitant, se transmet en ligne droite grâce à quelque chose que j'ai appelé l'**envelope**.
 
