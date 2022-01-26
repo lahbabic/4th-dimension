@@ -7,6 +7,7 @@ Imaginez vous une **grille** en **4D** d'**électrons**. Transitant entre eux de
 A partir de là. On en déduit que la **lumière** composé de plusieurs photons transitant, se transmet en ligne droite grâce à quelque chose que j'ai appelé l'**envelope**.
 
 L'une des propriétés des photons qui sont la plus petite quantité d'énergie lumineuse est que leur énergie est proportionnel à leur fréquence d'après Max Planck et moi (Je n'ai pas trouvé la constante. J'ai pas pu faire d'expérimentation mais Planck l'avait déjà fait avant moi).
+
 **E = h * f**
 - E = énergie du photon;
 - h = constante de Planck;
