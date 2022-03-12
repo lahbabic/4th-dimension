@@ -21,4 +21,4 @@ Ensuite le proton se dissout, il devient neutron et il déguage de l'énergie so
 Plus un atome a un numéro atomique élevé. Plus il tiendra d'électrons de la grille.
 
 **Idée pas sûr. A cherché:**
-Les éléctrons de la grille subissant le champ gravitationnel émis par les protons du noyau ont un potentiel. L'intéraction entre deux potentiels de deux électrons crée un champ électromagnétique qui dirige les photons transitant entre ces deux électrons.
+Les éléctrons de la grille subissant le champ gravitationnel émis par les protons du noyau ont une énergie potentielle. L'intéraction entre deux énergies potentielles de deux électrons crée un champ électromagnétique qui dirige les photons transitant entre ces deux électrons.
