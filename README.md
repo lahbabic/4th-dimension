@@ -20,7 +20,7 @@ Un neutron se condense en reçevant de l'**énergie** sous forme de photons prov
 Ensuite le proton se dissout, il devient neutron et il déguage de l'énergie sous forme de vague de gravitation qui le tient à la grille d'électron.
 Plus un atome a un numéro atomique élevé. Plus il tiendra d'électrons de la grille.
 
-###**Idée pas sûr. A cherché:**
+### **Idée pas sûr. A cherché:**
 
 
     Les éléctrons de la grille subissant le champ gravitationnel émis par les protons du noyau ont une énergie potentielle. 
