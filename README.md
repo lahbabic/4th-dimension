@@ -32,5 +32,5 @@ Plus un atome a un numéro atomique élevé. Plus il tiendra d'électrons de la 
       « Un ampère est l'intensité d'un courant constant qui, s'il est maintenu dans deux conducteurs linéaires et parallèles, de longueurs infinies,
       de sections négligeables et distants d'un mètre dans le vide, produit entre ces deux conducteurs une force linéaire égale à 2 × 10**(-7) newton par mètre. » 
 
- J'en déduit qu'un potentiel est l'accélération en mètre carré de l'absorption d'une "force"; par seconde. Cette force est produite par la vague dee gravitation produite par la dissolution des protons.
+ J'en déduit qu'un potentiel est l'accélération en mètre carré de la consommation d'une "force"; par seconde. Cette force est produite par la vague de gravitation produite par la dissolution des protons.
 
