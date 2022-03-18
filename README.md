@@ -21,4 +21,16 @@ Ensuite le proton se dissout, il devient neutron et il déguage de l'énergie so
 Plus un atome a un numéro atomique élevé. Plus il tiendra d'électrons de la grille.
 
 **Idée pas sûr. A cherché:**
-Les éléctrons de la grille subissant le champ gravitationnel émis par les protons du noyau ont une énergie potentielle. L'intéraction entre deux énergies potentielles de deux électrons crée un champ électromagnétique qui dirige les photons transitant entre ces deux électrons.
+    Les éléctrons de la grille subissant le champ gravitationnel émis par les protons du noyau ont une énergie potentielle. 
+    L'intéraction entre deux énergies potentielles de deux électrons crée un champ électromagnétique qui dirige les photons transitant entre ces deux électrons.
+
+  D'après la fusion de ces deux équations:
+![alt text](https://github.com/lahbabic/4th-dimension/blob/main/equation.png)
+
+  et d'après la définition d'un ampère qui est la suivante d'après Wikipédia:
+  
+      « Un ampère est l'intensité d'un courant constant qui, s'il est maintenu dans deux conducteurs linéaires et parallèles, de longueurs infinies,
+      de sections négligeables et distants d'un mètre dans le vide, produit entre ces deux conducteurs une force linéaire égale à 2 × 10**(-7) newton par mètre. » 
+
+ J'en déduit qu'un potentiel est l'accélération en mètre carré de l'absorption d'une "force"; par seconde. Cette force est produite par la vague dee gravitation produite par la dissolution des protons.
+
