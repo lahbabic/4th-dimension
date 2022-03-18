@@ -27,7 +27,7 @@ Les éléctrons de la grille subissant le champ gravitationnel émis par les pro
 L'intéraction entre deux énergies potentielles de deux électrons crée un champ électromagnétique qui dirige les photons transitant entre ces deux électrons.
 
 D'après la fusion de ces deux équations:
-![alt text](https://github.com/lahbabic/4th-dimension/blob/main/equation.png)
+![alt text](https://github.com/lahbabic/4th-dimension/blob/main/EQUATION.png)
 
 D'après la définition d'un ampère qui est la suivante d'après Wikipédia:
   
