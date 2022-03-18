@@ -33,3 +33,5 @@ D'après la définition d'un ampère qui est la suivante d'après Wikipédia:
 
 J'en déduit que le potentiel d'un éléctron est l'accélération en mètre carré de la consommation d'une "force"; par seconde. Cette force consommée est produite par la vague de gravitation produite par la dissolution des protons.
 
+Il en fait quoi ce con là!
+
