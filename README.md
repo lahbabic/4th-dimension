@@ -31,12 +31,16 @@ D'après la définition d'un ampère qui est la suivante d'après Wikipédia:
       « Un ampère est l'intensité d'un courant constant qui, s'il est maintenu dans deux conducteurs linéaires et parallèles, de longueurs infinies,
       de sections négligeables et distants d'un mètre dans le vide, produit entre ces deux conducteurs une force linéaire égale à 2 × 10**(-7) newton par mètre. » 
 
-J'en déduit que le potentiel d'une charge est l'accélération en mètre carré de la consommation d'une "force"; par seconde. Cette force consommée est produite par la vague de gravitation produite par la dissolution des protons.
+J'en déduit que le potentiel d'une charge est l'accélération en mètre carré de la consommation d'une "force"; par seconde.
+
+
+Cette force consommée est produite par la vague de gravitation produite par la dissolution des protons.
 
 Il en fait quoi ce con là!
 
 
 #### Potentiel d'existence
+ 
 
 Le potentiel d'existence peut se trouvé et se mesuré sur une vague dans le vide. La vague peut être soit une vague de gravitation soit une vague produite par la propagation d'un photon.
 
