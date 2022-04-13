@@ -13,7 +13,7 @@ L'une des propriétés des photons qui sont la plus petite quantité d'énergie 
 - h = constante de Planck;
 - f = fréquence de l'onde.
 
-Le photon traversant le vide fait une vague que l'on appel une onde.(A prouvé)
+Le photon traversant le vide fait une vague que l'on appel une onde.
 
 Dans le **noyeau** de l'**atome**. Il y a des **protons** et des **neutrons**. Les protons et les neutrons ont la propriété de se **condensé** et de se **dissoudre**.
 Un neutron se condense en reçevant de l'**énergie** sous forme de photons provenant des électrons. Cette énergie est stocké dans l'envelope et le neutron devient proton(énergie positive).
@@ -31,7 +31,13 @@ D'après la définition d'un ampère qui est la suivante d'après Wikipédia:
       « Un ampère est l'intensité d'un courant constant qui, s'il est maintenu dans deux conducteurs linéaires et parallèles, de longueurs infinies,
       de sections négligeables et distants d'un mètre dans le vide, produit entre ces deux conducteurs une force linéaire égale à 2 × 10**(-7) newton par mètre. » 
 
-J'en déduit que le potentiel d'un éléctron est l'accélération en mètre carré de la consommation d'une "force"; par seconde. Cette force consommée est produite par la vague de gravitation produite par la dissolution des protons.
+J'en déduit que le potentiel d'une charge est l'accélération en mètre carré de la consommation d'une "force"; par seconde. Cette force consommée est produite par la vague de gravitation produite par la dissolution des protons.
 
 Il en fait quoi ce con là!
+
+
+#### Potentiel d'existence
+
+Le potentiel d'existence peut se trouvé et se mesuré sur une vague dans le vide. La vague peut être soit une vague de gravitation soit une vague produite par la propagation d'un photon.
+
 
