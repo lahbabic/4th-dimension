@@ -13,7 +13,7 @@ L'une des propriétés des photons qui sont la plus petite quantité d'énergie 
 - h = constante de Planck;
 - f = fréquence de l'onde.
 
-Le photon traversant le vide fait une vague que l'on appel une onde.
+**Dualité onde particule**: Le photon traversant le vide fait une vague que l'on appel une onde
 
 Dans le **noyeau** de l'**atome**. Il y a des **protons** et des **neutrons**. Les protons et les neutrons ont la propriété de se **condensé** et de se **dissoudre**.
 Un neutron se condense en reçevant de l'**énergie** sous forme de photons provenant des électrons. Cette énergie est stocké dans l'envelope et le neutron devient proton(énergie positive).
