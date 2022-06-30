@@ -37,7 +37,7 @@ J'en déduit que le potentiel d'une charge est l'accélération en mètre carré
 
 Cette force consommée est produite par la vague de gravitation produite par la dissolution des protons.
 
-L'electron consomme la force issu de la vague de gravitation et agrandi son champ électromagnétique pour attirer ou repousser le noyau.
+L'electron consomme la force issu de la vague de gravitation et produit un champ électromagnétique plus fort pour attirer ou repousser le noyau de l'atome.
 
 Il en fait quoi ce con là!
 
